@@ -1,0 +1,7 @@
+streamlit==1.29.0
+openai==1.3.5
+fpdf==1.7.2
+sqlite3
+gspread
+oauth2client
+streamlit-supabase-auth
